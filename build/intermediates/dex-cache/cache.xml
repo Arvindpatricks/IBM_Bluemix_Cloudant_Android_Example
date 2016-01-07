@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/arvind/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.1/82ad1c5f92f6dcc6291f5c46ebacb975eaa844de/jackson-core-2.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82ad1c5f92f6dcc6291f5c46ebacb975eaa844de">
+        <dex dex="/Users/arvind/Desktop/todo-sync/build/intermediates/pre-dexed/debug/jackson-core-2.1.1-022e34a9a61e20d3004d4cfa20f893a72457924a.jar" />
+    </item>
+    <item
+        jar="/Users/arvind/.gradle/caches/modules-2/files-2.1/com.cloudant/cloudant-sync-datastore-core/0.14.0/b924137b9917bf8b8ced72427ddad9132412286d/cloudant-sync-datastore-core-0.14.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b924137b9917bf8b8ced72427ddad9132412286d">
+        <dex dex="/Users/arvind/Desktop/todo-sync/build/intermediates/pre-dexed/debug/cloudant-sync-datastore-core-0.14.0-3e54dd26bb3a8473011a7f3f966903241d91e888.jar" />
+    </item>
+    <item
+        jar="/Users/arvind/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/15.0/ed727a8d9f247e2050281cb083f1c77b09dcb5cd/guava-15.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ed727a8d9f247e2050281cb083f1c77b09dcb5cd">
+        <dex dex="/Users/arvind/Desktop/todo-sync/build/intermediates/pre-dexed/debug/guava-15.0-e0669775855b28ccc190a41a20e532c93b2340f3.jar" />
+    </item>
+    <item
+        jar="/Users/arvind/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.4/b1b6ea3b7e4aa4f492509a4952029cd8e48019ad/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/arvind/Desktop/todo-sync/build/intermediates/pre-dexed/debug/commons-io-2.4-9f6eb3cff69b98e036bde5547678bf2821f47220.jar" />
+    </item>
+    <item
+        jar="/Users/arvind/.gradle/caches/modules-2/files-2.1/com.cloudant/cloudant-sync-datastore-android/0.14.0/9169f420e483b1c7927dadc2b93122121d6bf3a5/cloudant-sync-datastore-android-0.14.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9169f420e483b1c7927dadc2b93122121d6bf3a5">
+        <dex dex="/Users/arvind/Desktop/todo-sync/build/intermediates/pre-dexed/debug/cloudant-sync-datastore-android-0.14.0-37eeab117407378004a0535849a03f572a4836fc.jar" />
+    </item>
+    <item
+        jar="/Users/arvind/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.10/4b95f4897fa13f2cd904aee711aeafc0c5295cd8/commons-codec-1.10.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4b95f4897fa13f2cd904aee711aeafc0c5295cd8">
+        <dex dex="/Users/arvind/Desktop/todo-sync/build/intermediates/pre-dexed/debug/commons-codec-1.10-00282dc986c252247821cfdf0e630504af7b97b3.jar" />
+    </item>
+    <item
+        jar="/Users/arvind/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.1.1/38d2b3c0c89af5b937fd98c3e558bf6b58c14aa2/jackson-databind-2.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="38d2b3c0c89af5b937fd98c3e558bf6b58c14aa2">
+        <dex dex="/Users/arvind/Desktop/todo-sync/build/intermediates/pre-dexed/debug/jackson-databind-2.1.1-1fce88eff5da3f2def4a6a8c2ea283a76485750d.jar" />
+    </item>
+    <item
+        jar="/Users/arvind/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.1.1/b01cc83e745fc4425a3968fafbf8e5b8254a6dd/jackson-annotations-2.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0b01cc83e745fc4425a3968fafbf8e5b8254a6dd">
+        <dex dex="/Users/arvind/Desktop/todo-sync/build/intermediates/pre-dexed/debug/jackson-annotations-2.1.1-bfe91c34d691e5c1c990383fdafc7becdd06a936.jar" />
+    </item>
+
+</items>

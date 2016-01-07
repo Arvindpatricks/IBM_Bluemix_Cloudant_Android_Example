@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/arvind/Desktop/todo-sync/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/Users/arvind/Desktop/todo-sync/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_delete">Delete</string>
+    <string name="action_download">Download (Pull)</string>
+    <string name="action_new">New</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_upload">Upload (Push)</string>
+    <string name="activity_settings_title">Settings</string>
+    <string name="app_name">TodoSync</string>
+    <string name="cancel">Cancel</string>
+    <string name="completed">COMPLETED</string>
+    <string name="create">Create</string>
+    <!-- From: file:/Users/arvind/Desktop/todo-sync/res/values/settings.xml -->
+    <eat-comment/>
+    <string name="default_api_key">7f1f486a-1104-47bd-add4-62663474ac15-bluemix</string>
+    <string name="default_api_password">93b4b2805dcaa6ecbe5277cd7baf4b9bd67d78750f78398a242cf1afabd0486b</string>
+    <string name="default_dbname">helloworld</string>
+    <string name="default_user">7f1f486a-1104-47bd-add4-62663474ac15-bluemix.cloudant.com</string>
+    <!-- From: file:/Users/arvind/Desktop/todo-sync/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="enter_description">Enter task description</string>
+    <string name="new_task">New Task</string>
+    <string name="pref_summary_api_key">The api key used to replicate to/from your cloudant account.</string>
+    <string name="pref_summary_api_password">The api password used to replicate to/from your cloudant account.</string>
+    <string name="pref_summary_dbname">You cloudant db name, and this is the db used in replication.</string>
+    <string name="pref_summary_username">You cloudant user name, and it is also used to determine your cloudant server url.</string>
+    <string name="pref_title_api_key">API Key</string>
+    <string name="pref_title_api_password">API Password</string>
+    <string name="pref_title_dbname">Cloudant db name</string>
+    <string name="pref_title_username">Cloudant user name</string>
+    <string name="replication_completed">Replication completed</string>
+    <string name="replication_error">Replication error</string>
+    <string name="replication_running">Replication is running</string>
+    <string name="task_not_created">Task not created because description is empty</string>
+    <!-- From: file:/Users/arvind/Desktop/todo-sync/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

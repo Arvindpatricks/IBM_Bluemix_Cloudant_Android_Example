@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="default_user">7f1f486a-1104-47bd-add4-62663474ac15-bluemix</string>
+    <string name="default_dbname">helloworld</string>
+    <string name="default_api_key">iffeedingsongthentfuldly</string>
+    <string name="default_api_password">3290f68bae3579370b707e1698eb3a73e1b9197f</string>
+
+</resources>
